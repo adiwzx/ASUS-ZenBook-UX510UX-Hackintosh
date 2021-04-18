@@ -1,5 +1,5 @@
-# ASUS-ZenBook-UX510UX-U5000UX-Hackintosh
-ASUS ZenBook UX510UX(U5000UX) - Hackintosh - OpenCore / Clover
+# ASUS-ZenBook-UX510UX-U5000UX-Hackintosh OpenCore / Clover
+
 i5-7200U
 12G内存(4+8)
 NVDIA GTX950M 2G
@@ -7,7 +7,7 @@ NVDIA GTX950M 2G
 
 ### 使用 OpenCore 过程
 
-参考 https://github.com/nlg96/Opencore-Asus-Ux510ux 的config.plist
+参考 https://github.com/nlg96/Opencore-Asus-Ux510ux 的config.plist使用OCC配置器修改
 
 更新OC 0.6.5 MOD版 及 OC 0.6.8 MOD 运行正常并增加图形启动界面 （感谢远景大神 btwise 发布的MOD版）
 
