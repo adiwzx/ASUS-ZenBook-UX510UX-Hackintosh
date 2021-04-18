@@ -5,13 +5,13 @@ i5-7200U
 NVDIA GTX950M 2G
 浦科特M9 NVMe 512G (原镁光256G M.2)
 
-# 使用 OpenCore 过程
+### 使用 OpenCore 过程
 参考 https://github.com/nlg96/Opencore-Asus-Ux510ux 的config.plist
 更新OC 0.6.5 MOD版 及 OC 0.6.8 MOD 运行正常并增加图形启动界面 （感谢远景大神 btwise 发布的MOD版）
 
 
 
-# 使用Clover 过程(停用而且不再折腾)
+### 使用Clover 过程(停用而且不再折腾)
 
 最早使用Clover 的config.plist取自
 
