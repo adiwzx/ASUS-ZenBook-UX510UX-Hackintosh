@@ -1,4 +1,4 @@
-# ASUS-ZenBook-UX510UX-U5000UX-Hackintosh OpenCore / Clover
+# ASUS-ZenBook-UX510UX（U5000UX）-Hackintosh OpenCore / Clover
 
 i5-7200U
 
