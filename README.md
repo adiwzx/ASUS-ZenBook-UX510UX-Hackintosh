@@ -1,9 +1,13 @@
 # ASUS-ZenBook-UX510UX-U5000UX-Hackintosh OpenCore / Clover
 
 i5-7200U
+
 12G内存(4+8)
+
 NVDIA GTX950M 2G
+
 浦科特M9 NVMe 512G (原镁光256G M.2)
+
 
 ### 使用 OpenCore 过程
 
